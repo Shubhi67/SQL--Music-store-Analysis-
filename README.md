@@ -41,6 +41,13 @@ These insights drive targeted marketing, strategic planning, customer engagement
 
 ![image](https://github.com/Shubhi67/SQL--Music-store-Analysis-/assets/126231638/a92576e3-8052-4854-91b1-726d3e81dadb)
 
+Conculsion-
+* Number of employees are less at senior level as compared to junior level.
+* Maximum countries(where customers belongs) are from  Europe only( ~70%).
+* Maximum total invoice amount is from Prague city also top two customers in terms of money they spend also belongs to this city only.
+* Rock is the only music genre which is popular in all country except Argentina in terms of purchase.
+* U2 is the artist who has written the most rock music
+
 
 
 
